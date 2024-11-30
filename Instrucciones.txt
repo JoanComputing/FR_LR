@@ -1,0 +1,7 @@
+Para descargar el dataset dirigirse a https://drive.google.com/file/d/1xTZc7lNmWN33ECO2AKH6FycGdiqIK7W0/view
+
+Los pasos de ejecución son los siguientes:
+1. Copiar repositorio o archivos a una misma carpeta
+2. Instalar dependencias de requirements.txt
+3. Ejecutar Procesar_SR.py para generar imágenes con Super Resolución
+4. Ejecutar red.ipynb para entrenamiento y ejemplos
